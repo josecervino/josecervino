@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- [LinkedIn](https://www.linkedin.com/in/jose-cervino/)
+- [Site (currently undergoing changes)](https://josecervino.com/)
+- [CV](https://www.linkedin.com/in/jose-cervino/)
+
 <!--
 **josecervino/josecervino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
