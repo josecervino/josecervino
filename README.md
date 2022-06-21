@@ -1,8 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
+#### Links
 - [LinkedIn](https://www.linkedin.com/in/jose-cervino/)
-- [Site (currently undergoing changes)](https://josecervino.com/)
-- [CV](https://www.linkedin.com/in/jose-cervino/)
+- Resume
+- Site
+
+[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josecervino&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **josecervino/josecervino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
